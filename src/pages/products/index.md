@@ -2,6 +2,10 @@
 templateKey: 'product-page'
 path: /products
 title: Our Coffee
+exampleList:
+  - type: demito
+  - quote: Let me see 
+  - author: BADU
 image: /img/jumbotron.jpg
 heading: Great coffee with a conscience
 description: >-
