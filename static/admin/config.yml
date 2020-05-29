@@ -4,6 +4,7 @@ backend:
   accept_roles:
     - admin
     - editor
+  repo: JoseLAmador/cms-app
   commit_messages:
     create: 'Create {{collection}} “{{slug}}”'
     update: 'Update {{collection}} “{{slug}}”'
