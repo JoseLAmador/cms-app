@@ -3,7 +3,7 @@ templateKey: product-page
 exampleList: []
 title: Our Coffee
 courseOneStart: 2020-05-29T00:00:00.000Z
-courseOneEnd: 2020-05-29T00:30:00.000Z
+courseOneEnd: 2020-05-29T01:30:00.000Z
 courseTwoStart: 2020-06-03T00:00:00.000Z
 courseTwoEnd: 2020-06-03T00:30:00.000Z
 courseThreeStart: 2020-06-05T00:00:00.000Z
