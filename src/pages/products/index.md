@@ -1,31 +1,31 @@
 ---
-heading: Great coffee with a conscience
-path: /products
 templateKey: product-page
 exampleList: []
 title: Our Coffee
-courseOneStart: 2020-06-11T00:00:00.000Z
-courseOneEnd: 2020-06-11T00:00:00.000Z
-courseTwoStart: 2020-06-11T00:00:00.000Z
-courseTwoEnd: 2020-06-11T00:00:00.000Z
-courseThreeStart: 2020-06-11T00:00:00.000Z
-courseThreeEnd: 2020-06-11T00:00:00.000Z
-courseFourStart: 2020-06-11T00:00:00.000Z
-courseFourEnd: 2020-06-11T00:00:00.000Z
+courseOneStart: 2020-05-29T00:00:00.000Z
+courseOneEnd: 2020-05-29T00:30:00.000Z
+courseTwoStart: 2020-06-03T00:00:00.000Z
+courseTwoEnd: 2020-06-03T00:30:00.000Z
+courseThreeStart: 2020-06-05T00:00:00.000Z
+courseThreeEnd: 2020-06-05T00:30:00.000Z
+courseFourStart: 2020-06-10T00:00:00.000Z
+courseFourEnd: 2020-06-10T00:30:00.000Z
 courseFiveStart: 2020-06-11T00:00:00.000Z
-courseFiveEnd: 2020-06-11T00:00:00.000Z
-courseSixStart: 2020-06-11T00:00:00.000Z
-courseSixEnd: 2020-06-11T00:00:00.000Z
-courseSevenStart: 2020-06-11T00:00:00.000Z
-courseSevenEnd: 2020-06-11T00:00:00.000Z
-courseEightStart: 2020-06-11T00:00:00.000Z
-courseEightEnd: 2020-06-11T00:00:00.000Z
-courseNineStart: 2020-06-11T00:00:00.000Z
-courseNineEnd: 2020-06-11T00:00:00.000Z
-courseTenStart: 2020-06-11T00:00:00.000Z
-courseTenEnd: 2020-06-11T00:00:00.000Z
-courseElevenStart: 2020-06-11T00:00:00.000Z
-courseElevenEnd: 2020-06-11T00:00:00.000Z
+courseFiveEnd: 2020-06-11T00:30:00.000Z
+courseSixStart: 2020-06-12T00:00:00.000Z
+courseSixEnd: 2020-06-12T00:30:00.000Z
+courseSevenStart: 2020-06-17T00:00:00.000Z
+courseSevenEnd: 2020-06-17T00:30:00.000Z
+courseEightStart: 2020-06-19T00:00:00.000Z
+courseEightEnd: 2020-06-19T00:30:00.000Z
+courseNineStart: 2020-06-24T00:00:00.000Z
+courseNineEnd: 2020-06-24T00:30:00.000Z
+courseTenStart: 2020-06-26T00:00:00.000Z
+heading: Great coffee with a conscience
+path: /products
+courseTenEnd: 2020-06-26T00:30:00.000Z
+courseElevenStart: 2020-07-01T00:00:00.000Z
+courseElevenEnd: 2020-07-01T00:30:00.000Z
 image: /img/jumbotron.jpg
 description: Kaldi is the ultimate spot for coffee lovers who want to learn
   about their java’s origin and support the farmers that grew it. We take coffee
