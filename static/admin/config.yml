@@ -61,8 +61,28 @@ collections:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "product-page"}
           - {label: Example List, name: exampleList, widget: list, required: false, default: [], fields: [{label: Demo, name: demito, widget: string, default: "damn", required: false},{label: Quote, name: quote, widget: string, required: false}, {label: Author, name: author, widget: string, required: false}]}
           - {label: Title, name: title, widget: string}
-          - { label: "Fecha de inicio", name: "startAt", widget: "datetime" }
-          - { label: "Fecha de termino", name: "endAt", widget: "datetime" }
+          - { label: "Course One Start", name: "courseOneStart", widget: "datetime" }
+          - { label: "Course One End", name: "courseOneEnd", widget: "datetime" }
+          - { label: "Course Two Start", name: "courseTwoStart", widget: "datetime" }
+          - { label: "Course Two End", name: "courseTwoEnd", widget: "datetime" }
+          - { label: "Course Three Start", name: "courseThreeStart", widget: "datetime" }
+          - { label: "Course Three End", name: "courseThreeEnd", widget: "datetime" }
+          - { label: "Course Four Start", name: "courseFourStart", widget: "datetime" }
+          - { label: "Course Four End", name: "courseFourEnd", widget: "datetime" }
+          - { label: "Course Five Start", name: "courseFiveStart", widget: "datetime" }
+          - { label: "Course Five End", name: "courseFiveEnd", widget: "datetime" }
+          - { label: "Course Six Start", name: "courseSixStart", widget: "datetime" }
+          - { label: "Course Six End", name: "courseSixEnd", widget: "datetime" }
+          - { label: "Course Seven Start", name: "courseSevenStart", widget: "datetime" }
+          - { label: "Course Seven End", name: "courseSevenEnd", widget: "datetime" }
+          - { label: "Course Eight Start", name: "courseEightStart", widget: "datetime" }
+          - { label: "Course Eight End", name: "courseEightEnd", widget: "datetime" }
+          - { label: "Course Nine Start", name: "courseNineStart", widget: "datetime" }
+          - { label: "Course Nine End", name: "courseNineEnd", widget: "datetime" }
+          - { label: "Course Ten Start", name: "courseTenStart", widget: "datetime" }
+          - { label: "Course Ten End", name: "courseTenEnd", widget: "datetime" }
+          - { label: "Course Eleven Start", name: "courseElevenStart", widget: "datetime" }
+          - { label: "Course Eleven End", name: "courseElevenEnd", widget: "datetime" }
           - {label: Image, name: image, widget: image}
           - {label: Heading, name: heading, widget: string}
           - {label: Description, name: description, widget: string}

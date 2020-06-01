@@ -4,8 +4,28 @@ path: /products
 templateKey: product-page
 exampleList: []
 title: Our Coffee
-startAt: 2020-06-11T00:00:00.000Z
-endAt: 2020-06-11T00:30:00.000Z
+courseOneStart: 2020-06-11T00:00:00.000Z
+courseOneEnd: 2020-06-11T00:00:00.000Z
+courseTwoStart: 2020-06-11T00:00:00.000Z
+courseTwoEnd: 2020-06-11T00:00:00.000Z
+courseThreeStart: 2020-06-11T00:00:00.000Z
+courseThreeEnd: 2020-06-11T00:00:00.000Z
+courseFourStart: 2020-06-11T00:00:00.000Z
+courseFourEnd: 2020-06-11T00:00:00.000Z
+courseFiveStart: 2020-06-11T00:00:00.000Z
+courseFiveEnd: 2020-06-11T00:00:00.000Z
+courseSixStart: 2020-06-11T00:00:00.000Z
+courseSixEnd: 2020-06-11T00:00:00.000Z
+courseSevenStart: 2020-06-11T00:00:00.000Z
+courseSevenEnd: 2020-06-11T00:00:00.000Z
+courseEightStart: 2020-06-11T00:00:00.000Z
+courseEightEnd: 2020-06-11T00:00:00.000Z
+courseNineStart: 2020-06-11T00:00:00.000Z
+courseNineEnd: 2020-06-11T00:00:00.000Z
+courseTenStart: 2020-06-11T00:00:00.000Z
+courseTenEnd: 2020-06-11T00:00:00.000Z
+courseElevenStart: 2020-06-11T00:00:00.000Z
+courseElevenEnd: 2020-06-11T00:00:00.000Z
 image: /img/jumbotron.jpg
 description: Kaldi is the ultimate spot for coffee lovers who want to learn
   about their java’s origin and support the farmers that grew it. We take coffee
