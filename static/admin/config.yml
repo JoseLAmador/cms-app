@@ -61,6 +61,8 @@ collections:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "product-page"}
           - {label: Example List, name: exampleList, widget: list, required: false, default: [], fields: [{label: Demo, name: demito, widget: string, default: "damn", required: false},{label: Quote, name: quote, widget: string, required: false}, {label: Author, name: author, widget: string, required: false}]}
           - {label: Title, name: title, widget: string}
+          - { label: "Fecha de inicio", name: "startAt", widget: "datetime" }
+          - { label: "Fecha de termino", name: "endAt", widget: "datetime" }
           - {label: Image, name: image, widget: image}
           - {label: Heading, name: heading, widget: string}
           - {label: Description, name: description, widget: string}

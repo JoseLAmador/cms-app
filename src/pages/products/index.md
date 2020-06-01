@@ -4,6 +4,8 @@ path: /products
 templateKey: product-page
 exampleList: []
 title: Our Coffee
+startAt: 2020-06-11T00:00:00.000Z
+endAt: 2020-06-11T00:30:00.000Z
 image: /img/jumbotron.jpg
 description: Kaldi is the ultimate spot for coffee lovers who want to learn
   about their java’s origin and support the farmers that grew it. We take coffee
